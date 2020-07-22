@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Actor);
+
+body{
+    background-color: black;
+    margin-left: 125px;
+    
+}
+
+h1,h2,h3{
+    font-family: "Actor";
+    color: white;
+}
+
+li{
+    font-family: "Actor";
+    font-size: 35px;
+    padding: 20px;
+}
+p{
+    font-family: "Actor";
+    color: white;
+}
+
+a{
+    font-family: "Actor";
+    padding-left: 6px;
+    padding-right: 6px;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+
+.homeheader{
+    font-size: 50px;
+    margin-top: 60px;
+}
+
+.separateheader{
+    margin-top: 40px;
+}
+
+.album{
+    padding: 5px 43px 5px 0px;
+}
+
+.live{
+    display: inline-block;
+    padding: 10px 20px 0px 0px;
+}
+
+.pieces{
+    display: inline-block;
+    padding: 10px 20px 0px 0px;
+}
+
+.animation{
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.drawing{
+    padding-bottom: 10px;
+}
+
+.drawing2{
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+.size{
+    padding: 0px 500px;
+}
+
+.about{
+    margin-right: 150px;
+}
