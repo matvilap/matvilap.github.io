@@ -1,0 +1,16 @@
+title: Matias Vilaplana Stark
+description: >-
+  Matias Stark is a composer and technologist, and he 
+  should change the rest of this paragraph.
+url: ""
+markdown: kramdown
+# baseurl: "/"
+
+defaults:
+  -
+    values:
+      layout: "default"
+
+collections:
+  works:
+    output: true
