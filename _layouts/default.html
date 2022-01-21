@@ -1,50 +1,14 @@
-<!-- <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&display=swap" rel="stylesheet"> 
-    
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
-  <body> -->
-    <!-- <header>Luke Dahl</header> -->
-  {% include header.html %}
-    <section class="page-wrap">
-      {% include nav.html %}
-      <!-- <nav>
-        <header><h2>{{ site.title }}</h2></header>
-        <ul>
-          {% assign pages = site.html_pages | sort: "order" %}
-          {% for node in pages %}
-            {% if page.url == node.url %}
-              <li class="active"><a href="{{node.url | relative_url}}" class="active">{{node.title}}</a></li>
-            {% else %}
-              <li><a href="{{node.url | relative_url}}">{{node.title}}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav> -->
-      <article>
-        <!-- {% include grid.html works="works" %} -->
-        <!-- <div class="works-grid">
-          {% for work in site.works %}
-            <a href="{{ work.url }}">
-              <img src="{{ work.thumb }}" />
-              <h3 class="work-title">{{ work.title }}</h3>
-              <p class="work-subtitle">{{ work.subtitle}}</p>
-            </a>
-          {% endfor %}
-        </div> -->
+{% include header.html %}
 
-        <h1 id="{{page.title | downcase}}">{{ page.title }}</h1>
-        <div class="content-wrap">
-          {{ content }}
-        </div>
-      </article>
-    </section>
-  </body>
-</html>
+<section class="page-wrap">
+  {% include nav.html %}
+  <article>
+
+    <h1 id="{{page.title | downcase}}">{{ page.title }}</h1>
+    <div class="content-wrap">
+      {{ content }}
+    </div>
+  </article>
+</section>
+
+{% include page-footer.html %}
