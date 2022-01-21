@@ -5,8 +5,10 @@ order: 1
 
 # Improv
 
-{% include grid.html works="improv" %}
-   
+{% assign set = site.works | where: "category", "improv" %}
+{% include grid.html %}
+
 ## Compositions/Other Collaborations
 
-{% include grid.html works="piece" %}
+{% assign set = site.works | where: "category", "piece" %}
+{% include grid.html %}

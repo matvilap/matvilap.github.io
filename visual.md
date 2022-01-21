@@ -5,16 +5,20 @@ order: 5
 
 ## Short Animations (2020)
 
-{% include grid.html type="data" works="animations" columns="3" %}
+{% assign set = site.data.images.animations %}
+{% include grid.html columns="3" thumbs="video" category="visuals" %}
 
 ## Red and black marker #2 (2017-2019)
 
-{% include grid.html type="data" works="sin_titulo" columns="1" %}
+{% assign set = site.data.images.sin_titulo %}
+{% include grid.html columns="1" category="visuals" %}
 
 ## Red and black marker #1 (2009)
 
-{% include grid.html type="data" works="red_black" %}
+{% assign set = site.data.images.red_black %}
+{% include grid.html category="visuals" %}
 
 ## Digital Post-Processing (2019)
 
-{% include grid.html type="data" works="digital_post" columns="3" %}
+{% assign set = site.data.images.digital_post %}
+{% include grid.html columns="3" category="visuals" %}
