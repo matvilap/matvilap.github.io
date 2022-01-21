@@ -1,6 +1,7 @@
 ---
-title: ¿Que sera de la musica el dia de hoy? (2017)
+title: ¿Que sera de la musica el dia de hoy?
 category: piece
+date: 2017-01-01
 ---
 
 <iframe src="https://open.spotify.com/embed/album/2Ein6VWJERotfHQHQgKbha" width="560" height="315" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

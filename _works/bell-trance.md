@@ -1,8 +1,9 @@
 ---
-title: Bell Trance (2018)
+title: Bell Trance
 subtitle: for carillon and electronics
 category: piece
 thumb: /images/thumbs/bells-small.png
+date: 2018-01-01
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFtJz1u1mGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

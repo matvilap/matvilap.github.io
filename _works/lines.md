@@ -3,6 +3,7 @@ title: Lines
 subtitle: free improv collective
 category: improv
 thumb: /images/thumbs/lines-small.png
+date: 2020-01-01
 ---
 
 Lines is a free improv group that explores the combination of acoustic instruments with live processing and looping techniques. First initiated by Matias Vilaplana in 2018 together with guitar player Geoff Brown and drummer Joey Fortino in Ann Arbor, where they met while being students. The idea was to have a rotating group of musicians, allowing for different combinations in order to explore multiple sound worlds. This further collaborations included working with Spencer Haney (double bass), Ezra Ganz (bass clarinet), Ryan Cox (saxophone) and Bradley Gurwin (piano, keyboard).

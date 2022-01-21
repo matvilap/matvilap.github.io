@@ -1,8 +1,9 @@
 ---
-title: War Machines Dance to Piano Music (2017) 
+title: War Machines Dance to Piano Music
 subtitle: piano, electronics, and video
 category: piece
 thumb: /images/thumbs/war-small.png
+date: 2017-01-01
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c1OJXGDb6JI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

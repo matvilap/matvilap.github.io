@@ -1,7 +1,8 @@
 ---
-title: Marbells VR (2019)
+title: Marbells VR
 subtitle: musical causality system for Oculus Rift S
 category: vr
+date: 2019-01-01
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/npz9d7_3HT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

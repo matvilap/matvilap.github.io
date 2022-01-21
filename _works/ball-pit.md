@@ -1,7 +1,8 @@
 ---
-title: Ball Pit VR (2019)
+title: Ball Pit VR
 category: vr
 subtitle: stochastic musical system for the HTC Vive
+date: 2019-01-01
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNdlUYncRfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
