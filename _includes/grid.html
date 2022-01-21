@@ -1,26 +1,13 @@
-{% assign type = include.type | default: "works" %}
-
-{% if type == "works" %}
-  {% assign works = site.works | where: "category", include.works %}
-{% else %}
-  {% assign works = site.data.images[include.works] %}
-{% endif %}
 {% assign cols = include.columns %}
-
+{% assign type = include.thumbs | default: "image" %}
+{% assign cat = include.category | default: "summary" %}
 
 <div class="works-grid works-grid-{{ cols | default: 2 }}">
-  {% for work in works %}
-    <a href="{{ work.url }}">
-      {% if work contains "thumb" %}
-        <img src="{{ work.thumb }}" />
-      {% elsif work contains "video" %}
-        <video src="{{ work.video }}" controls loop muted></video>
-      {% endif %}
-      <h3 class="work-title">{{ work.title }}</h3>
-      
-      {% if work.subtitle != empty %}
-        <p class="work-subtitle">{{ work.subtitle}}</p>
-      {% endif %}
-    </a>
+  {% for work in set %}
+    {% if cat == "summary" %}
+      {% include grid-summary.html %}
+    {% else %}
+      {% include grid-image.html type=type %}
+    {% endif %}
   {% endfor %}
 </div>

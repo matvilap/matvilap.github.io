@@ -1,0 +1,13 @@
+<a href="{{ work.url }}">
+  {% if work.thumb != null %}
+    <img src="{{ work.thumb }}" />
+  {% else %}
+    <img src="/images/thumbs/slicer-small.png" />
+  {% endif %}
+
+  <h3 class="work-title">{{ work.title }}</h3>
+  
+  {% if work.subtitle != empty %}
+    <p class="work-subtitle">{{ work.subtitle}}</p>
+  {% endif %}
+</a>

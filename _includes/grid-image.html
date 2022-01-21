@@ -1,0 +1,13 @@
+<div class="work-single">
+  {% if include.type == "video" %}
+    <video src="{{ work.video }}" controls loop muted></video>
+  {% else %}
+    <img src="{{ work.thumb }}" />
+  {% endif %}
+
+  <h3 class="work-title">{{ work.title }}</h3>
+
+  {% if work.subtitle != empty %}
+    <p class="work-subtitle">{{ work.subtitle}}</p>
+  {% endif %}
+</div>
