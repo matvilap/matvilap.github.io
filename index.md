@@ -3,4 +3,5 @@ title: Index
 order: 0
 ---
 
-This is a test.
+{% assign set = site.data.images.home_block %}
+{% include grid-home.html %}

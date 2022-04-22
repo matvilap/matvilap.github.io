@@ -1,0 +1,9 @@
+<div class="grid-home">
+  <ul>
+    {% for block in set %}
+      <li style="--bg: url('{{ block.image | relative_url}}')">
+        <a href="{{ block.url | relative_url }}"><span>{{ block.text }}</span></a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,10 +1,15 @@
 {% include header.html %}
 
-<section class="page-wrap">
+<section class="page-wrap page-{{ page.name | split: '.' | slice: 0 }}">
   {% include nav.html %}
   <article>
 
-    <h1 id="{{page.title | downcase}}">{{ page.title }}</h1>
+    <h1 class="page-title" id="{{page.title | downcase | split: ' ' | join: '-' }}">
+      {{ page.title }}
+    </h1>
+    {% if page.subtitle != empty %}
+      <h4>{{ page.subtitle }}</h4>
+    {% endif %}
     <div class="content-wrap">
       {{ content }}
     </div>

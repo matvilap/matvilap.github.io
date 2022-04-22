@@ -1,13 +1,28 @@
-@import url(https://fonts.googleapis.com/css?family=Actor);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Overpass+Mono:wght@700&family=Roboto+Mono:wght@600&display=swap');
+
+:root {
+  --base-font: "Inter", sans-serif;
+  --header-font: "Overpass Mono";
+  --bg-color: black;
+  --color: white;
+  --accent: red;
+}
+
+* {
+  box-sizing: border-box;
+}
 
 body{
-    background-color: black;
+    background-color: var(--bg-color);
+    color: var(--color);
+    font-family: var(--base-font);
+    padding-bottom: 100px;
     /* margin: 0 auto; */
     /* margin-bottom: 100px; */
 }
 
 .page-wrap {
-  width: 80%;
+  width: 70%;
   margin: 0 auto;
 }
 
@@ -15,39 +30,56 @@ img, video {
   max-width: 100%;
 }
 
-h1,h2,h3{
-    font-family: "Actor", sans-serif;
-    color: white;
+h1, h2{
+    font-family: var(--header-font), sans-serif;
+}
+
+h1.page-title {
+  font-size: 2.4em;
+  line-height: 1.6;
+  position: relative;
+}
+
+h1.page-title::before {
+  --block-size: 0.6em;
+  background-color: var(--accent);
+  border: 3px solid var(--color);
+  box-sizing: border-box;
+  box-shadow: inset 0 0 0 4px var(--bg-color);
+  content: "";
+  position: absolute;
+  left: calc(var(--block-size) * -1 - 20px);
+  
+  margin: calc(1em - var(--block-size)) 0;
+  height: var(--block-size);
+  width: var(--block-size);
+  transform: rotate(45deg);
+}
+
+h2.site-title {
+  margin-bottom: 0.25em;
 }
 
 li{
-    font-family: "Actor", sans-serif;
+    
     font-size: 35px;
     padding: 20px;
 }
 
-p{
-    font-family: "Actor", sans-serif;
-    color: white;
-}
-
 a{
-    font-family: "Actor", sans-serif;
-    padding-left: 6px;
-    padding-right: 6px;
     text-decoration: none;
 }
 
 a:link{
-    color: white;
+    color: var(--color);
 }
 
 a:visited{
-    color: white;
+    color: var(--color);
 }
 
 a:hover{
-    color: red;
+    color: var(--accent);
 }
 
 .homeheader{
@@ -92,12 +124,17 @@ p.pieces{
 
 .works-grid {
   display: grid;
-  gap: 20px;
+  gap: 40px;
   grid-template-columns: repeat(2, 1fr);
 }
 
 .works-grid-1 {
   grid-template-columns: 1fr;
+  width: 70%;
+}
+
+.page-visual .works-grid-1 {
+  width: 100%;
 }
 
 .works-grid-2 {
@@ -136,14 +173,108 @@ p.pieces{
     margin-right: 150px;
 }
 
+nav {
+  text-align: center;
+  /* margin-right: 0; */
+  /* margin-left: auto; */
+  /* width: 80%; */
+}
+
 nav ul {
+  --nav-color: rgba(191, 189, 189, 0.69);
+  margin-top: 0.5em;
   padding-left: 0;
 }
 
 nav ul li {
   display: inline-block;
-  font-size: 1em;
+  font-size: 0.9em;
   padding: 0;
+  position: relative;
   margin-right: 1em;
+  text-transform: lowercase;
+}
 
+nav ul li:not(:last-of-type)::after {
+  content: "";
+  display: inline-block;
+  /* right: 0; */
+  width: 3px;
+  height: 0.9em;
+  background-color: var(--bg-color);
+  border: 0.9px dashed var(--accent);
+  margin-bottom: -0.1em;
+  margin-left: 1em;
+  transform: skew(-18deg);
+  box-shadow: inset 0px 2px 0 0 var(--accent), inset 0 -2px 0 0 var(--accent);
+  /* position: absolute; */
+}
+
+nav ul li a:link,
+nav ul li a:visited {
+  color: var(--nav-color);
+}
+
+nav ul li:first-of-type {
+  margin-left: 0;
+}
+
+nav ul li:first-of-type a {
+  padding-left: 0;
+}
+
+nav ul li.active a,
+nav ul li a:hover {
+  color: var(--accent);
+}
+
+.about-image {
+  float: left;
+  margin-right: 2em;
+  width: 25%;
+}
+
+.grid-home ul {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  list-style-type: none;  
+  padding-left: 0;
+  max-width: 100%;
+}
+
+.grid-home li {
+  background-image: var(--bg);
+  position: relative;
+  width: 30%;
+}
+
+.grid-home li::before,
+.grid-home li:last-child::after {
+  content: "";
+  display: block;
+  height: 100%;
+  width: 60px;
+  position: absolute;
+  left: -30px;
+  transform: skew(-7deg);
+  z-index: 100000;
+  background-color: black;
+}
+
+.grid-home li:last-child::after {
+  left: auto;
+  right: -30px;
+  top: 3px;
+}
+
+.grid-home ul li a {
+  align-items: center;
+  display: flex;
+  height: 40vh;
+  justify-content: center;
+}
+
+.page-index h1 {
+  display: none;
 }

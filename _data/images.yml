@@ -47,3 +47,14 @@ red_black:
     thumb: images/Emocion.jpg
   - title: Razón
     thumb: images/Razon.jpg
+
+home_block:
+  - text: Improv
+    url: /improv
+    image: /images/thumbs/bells-small.png
+  - text: VR
+    url: /vr
+    image: /images/thumbs/bells-small.png
+  - text: About
+    url: /aboutme
+    image: /images/thumbs/bells-small.png

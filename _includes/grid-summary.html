@@ -1,11 +1,11 @@
-<a href="{{ work.url }}">
+<a href="{{ work.url | relative_url }}">
   {% if work.thumb != null %}
-    <img src="{{ work.thumb }}" />
+    <img src="{{ work.thumb | relative_url }}" />
   {% else %}
-    <img src="/images/thumbs/slicer-small.png" />
+    <img src="{{ '/images/thumbs/slicer-small.png' | relative_url }}" />
   {% endif %}
 
-  <h3 class="work-title">{{ work.title }}</h3>
+  <h3 class="work-title">{{ work.title }} ({{ work.date | date: "%Y" }})</h3>
   
   {% if work.subtitle != empty %}
     <p class="work-subtitle">{{ work.subtitle}}</p>

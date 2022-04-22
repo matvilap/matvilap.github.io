@@ -1,11 +1,9 @@
 ---
 title: About
-order: 5
+order: 6
 ---
 
-<!-- ![Matias Stark]("images/matiasvilaplana.jpg" width="400" height="600" align="right") -->
-
-![Matias Stark](images/matiasvilaplana.jpg)
+![Matias Stark](images/matiasvilaplana.jpg){: .about-image }
 
 Matias Vilaplana's creative practices involve recording/mixing, music composition, musical interaction design in virtual reality, ensemble improvisation with live  audio processing and drawing.
               
