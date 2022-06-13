@@ -1,6 +1,7 @@
 ---
 title: Razón
 category: piece
+thumb: /images/thumbs/Razon.jpg
 date: 2013-01-01
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Emovere
-subtitle: Interactive Dance Performance 
+subtitle: Interactive Dance Performance
 category: sound-design
+thumb: /images/thumbs/Emovere.png
 date: 2014-01-01
 ---
 

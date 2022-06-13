@@ -2,6 +2,7 @@
 title: Medea
 subtitle: theater/installation piece
 category: sound-design
+thumb: /images/thumbs/Medea.png
 date: 2017-01-01
 ---
 

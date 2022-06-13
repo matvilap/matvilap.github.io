@@ -2,6 +2,7 @@
 title: Marbells VR
 subtitle: musical causality system for Oculus Rift S
 category: vr
+thumb: /images/thumbs/Marbells.png
 date: 2019-01-01
 ---
 

@@ -2,6 +2,7 @@
 title: The Landmine Project
 subtitle: multimedia exhibition
 category: sound-design
+thumb: /images/thumbs/Landmine.png
 date: 2016-01-01
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: ¿Que sera de la musica el dia de hoy?
-category: piece
+category: improv
+thumb: /images/thumbs/que-sera-de-la-musica.jpg
 date: 2017-01-01
 ---
 

@@ -2,6 +2,7 @@
 title: Ball Pit VR
 category: vr
 subtitle: stochastic musical system for the HTC Vive
+thumb: /images/thumbs/BallPit.png
 date: 2019-01-01
 ---
 
