@@ -1,10 +1,9 @@
 title: Matias Vilaplana Stark
 description: >-
-  Matias Stark is a composer and technologist, and he 
-  should change the rest of this paragraph.
+  Matias Vilaplana Stark is a composer and technologist.
 url: ""
 markdown: kramdown
-baseurl: "/mat-dev"
+# baseurl: "/"
 
 defaults:
   -
