@@ -49,7 +49,7 @@ h1.page-title::before {
   content: "";
   position: absolute;
   left: calc(var(--block-size) * -1 - 20px);
-  
+
   margin: calc(1em - var(--block-size)) 0;
   height: var(--block-size);
   width: var(--block-size);
@@ -73,7 +73,7 @@ h4 {
 }
 
 li{
-    
+
     font-size: 35px;
     padding: 20px;
 }
@@ -246,17 +246,24 @@ nav ul li a:hover {
   width: 25%;
 }
 
+.grid-home {
+  margin-top: 4.5em;
+}
+
 .grid-home ul {
   align-items: center;
   justify-content: center;
   display: flex;
-  list-style-type: none;  
+  list-style-type: none;
   padding-left: 0;
   max-width: 100%;
 }
 
 .grid-home li {
   background-image: var(--bg);
+  background-position: center;
+  background-size: cover;
+  padding: 0;
   position: relative;
   width: 30%;
 }
@@ -285,6 +292,7 @@ nav ul li a:hover {
   display: flex;
   height: 40vh;
   justify-content: center;
+  text-align: center;
 }
 
 .page-index h1 {

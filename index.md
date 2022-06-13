@@ -3,15 +3,15 @@ title: Index
 order: 0
 
 home_block:
-  - text: Improv
-    url: /improv
-    image: /images/thumbs/bells-small.png
+  - text: Music
+    url: /music
+    image: /images/thumbs/lluviaen2partes.jpeg
+  - text: Interactive Media
+    url: /interactive
+    image: /images/thumbs/SyntheticBodies.png
   - text: VR
     url: /vr
-    image: /images/thumbs/bells-small.png
-  - text: About
-    url: /aboutme
-    image: /images/thumbs/bells-small.png
+    image: /images/thumbs/UX-1.png
 ---
 
 {% assign set = page.home_block %}
