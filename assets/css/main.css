@@ -268,8 +268,12 @@ nav ul li a:hover {
   width: 30%;
 }
 
+.grid-home li span {
+  width: 80%;
+}
+
 .grid-home li::before,
-.grid-home li:last-child::after {
+.grid-home li::after {
   content: "";
   display: block;
   height: 100%;
@@ -281,10 +285,15 @@ nav ul li a:hover {
   background-color: black;
 }
 
-.grid-home li:last-child::after {
+.grid-home li::after {
+  display: none;
   left: auto;
   right: -30px;
   top: 0px;
+}
+
+.grid-home li:last-child::after {
+  display: block;
 }
 
 .grid-home ul li a {
@@ -297,4 +306,35 @@ nav ul li a:hover {
 
 .page-index h1 {
   display: none;
+}
+
+@media(max-width: 850px) {
+  .works-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .works-grid-1 {
+    width: 100%;
+  }
+
+  .grid-home {
+    margin-top: 3.5em;
+  }
+
+  .grid-home ul {
+    flex-direction: column;
+  }
+
+  .grid-home ul li {
+    margin-top: 0.5em;
+    width: 100%;
+  }
+
+  .grid-home li::after {
+    display: block !important;
+  }
+
+  .about-image {
+    width: 45%;
+  }
 }
