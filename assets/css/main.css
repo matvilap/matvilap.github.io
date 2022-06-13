@@ -284,7 +284,7 @@ nav ul li a:hover {
 .grid-home li:last-child::after {
   left: auto;
   right: -30px;
-  top: 3px;
+  top: 0px;
 }
 
 .grid-home ul li a {
