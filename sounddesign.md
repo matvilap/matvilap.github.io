@@ -1,6 +1,6 @@
 ---
 title: Sound Design
-order: 2
+order: 4
 ---
 
 {% assign set = site.works | where: "category", "sound-design" | sort: "date" | reverse %}

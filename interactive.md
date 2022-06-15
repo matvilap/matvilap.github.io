@@ -1,6 +1,6 @@
 ---
 title: Interactive Media
-order: 3
+order: 2
 ---
 
 {% assign set = site.works | where: "category", "interactive" | sort: "date" | reverse %}
