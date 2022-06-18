@@ -1,12 +1,12 @@
 ---
 title: Lines
-subtitle: free improv collective
+subtitle: Free Improvisation Collective
 category: improv
 thumb: /images/thumbs/Lines.jpg
 date: 2020-01-01
 ---
 
-Lines is a free improv group that explores the combination of acoustic instruments with live processing and looping techniques. First initiated by Matias Vilaplana in 2018 together with guitar player Geoff Brown and drummer Joey Fortino in Ann Arbor, where they met while being students. The idea was to have a rotating group of musicians, allowing for different combinations in order to explore multiple sound worlds. This further collaborations included working with Spencer Haney (double bass), Ezra Ganz (bass clarinet), Ryan Cox (saxophone) and Bradley Gurwin (piano, keyboard).
+Lines is an improvisation group that explores the combination of acoustic instruments with live processing and looping techniques in free form. First initiated in Ann Arbor, MI, in 2018 by Matias Vilaplana (electronics), Geoff Brown (guitar) and Joey Fortino (drums) while they were students. Further collaborations included Spencer Haney (double bass), Ezra Ganz (bass clarinet), Ryan Cox (saxophone) and Bradley Gurwin (piano, keyboard) and it became a rotating line-up allowing for different combinations that explore multiple sound worlds.
 
 ## Albums (2018 - 2020)
 
@@ -19,8 +19,7 @@ Lines is a free improv group that explores the combination of acoustic instrumen
 ## Live shows
 
 <div class="live">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wDfye9Uwxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>@ Children's Museum, Marquette, 2020</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wDfye9Uwxs?start=1840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="live">
