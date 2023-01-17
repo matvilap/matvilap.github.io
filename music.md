@@ -11,7 +11,7 @@ order: 1
 {% assign set = site.works | where: "category", "improv" | sort: "date" | reverse %}
 {% include grid.html %}
 
-## Compositions
+## Compositions/Performance
 
 {% assign set = site.works | where: "category", "piece" | sort: "date" | reverse %}
 {% include grid.html %}
