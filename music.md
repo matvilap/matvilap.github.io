@@ -2,7 +2,7 @@
 title: Music
 order: 1
 ---
-## Improv
+## Improvisation
 
 {% assign set = site.works | where: "category", "improv" | sort: "date" | reverse %}
 {% include grid.html %}
