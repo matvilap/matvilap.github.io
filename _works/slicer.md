@@ -1,5 +1,5 @@
 ---
-title: Slicer Study
+title: (if someone were to touch me) I would dissolve into molecules
 subtitle: Audiovisual Algorithmic Composition
 category: piece
 thumb: /images/thumbs/slicerstudy1.jpeg
