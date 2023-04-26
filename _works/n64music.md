@@ -1,5 +1,5 @@
 ---
-title: n64ps2​-​4gc
+title: /​/​/​/​/​/​VGM###1
 subtitle: EP
 category: solo
 thumb: /images/thumbs/n64ps2-4gc.png
