@@ -11,4 +11,4 @@ date: 2023-02-25
 Paisajes Oníricos / Dreamscapes (2023) for Saxophone and Percussion by Matias Vilaplana Stark
 Performed by Popebama as part of the Composition and Computer Technologies ensemble in residence program at Old Cabell Hall, University of Virginia, February 2023
 
-The performers 'read' the screen as a dynamic graphic score, musicaly transducing the 2D visuals that are in constant 'motion'. A third performer, navigates the 3D virtual environment, performing the 3D graphic score for the musicians.
+The performers 'read' the screen as a dynamic graphic score, musicaly transducing the virtual environment based on suggested audiovisual mappings. A third performer acts as a conductor by navigating in 3D space, controlling the pace of the piece and the visuals for the musicians.
