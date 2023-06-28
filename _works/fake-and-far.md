@@ -14,3 +14,5 @@ Program notes
 Made in collaboration with Becky Brown. Presented at the 2023 Stuttgart Filmwinter festival as part of the Expanded Media exhibition. It is a very literal experiment in the evolution of language through communal censorship, the news cycle, the financial system and the numbing effect of our online interactions.
 
 It uses Vue 2, ojack's hydra-synth.js, Tone.js, and socket.io. The initial installation version used Max/MSP and Xebra.js for audio, but this changed for the web-only version.
+
+visit the site here https://deep-news-client.onrender.com/
