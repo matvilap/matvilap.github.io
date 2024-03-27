@@ -242,8 +242,8 @@ nav ul li a:hover {
 
 .about-image {
   float: left;
-  margin-right: 2em;
-  width: 25%;
+  margin-right: 1em;
+  width: 45%;
 }
 
 .grid-home {
@@ -335,6 +335,6 @@ nav ul li a:hover {
   }
 
   .about-image {
-    width: 100%;
+    width: 45%;
   }
 }
