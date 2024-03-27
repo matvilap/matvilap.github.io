@@ -2,7 +2,7 @@
 title: Funeral For A Whale
 subtitle: Octophonic composition
 category: piece
-thumb: /images/thumbs/Landmine.png
+thumb: /images/thumbs/whale.jpg
 date: 2024-09-07
 ---
 

@@ -2,7 +2,7 @@
 title: To Those Who Leave
 subtitle: Ensemble & Fixed Media
 category: piece
-thumb: /images/thumbs/Landmine.png
+thumb: /images/thumbs/Hypercube.png
 date: 2024-02-02
 ---
 
