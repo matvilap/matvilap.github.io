@@ -1,5 +1,5 @@
 ---
-title: lluvia en [2] partes
+title: lluvia en la capital
 subtitle: Electronics, Granular Synthesis & Field Recordings
 category: piece
 thumb: /images/thumbs/lluviaen2partes.jpeg
