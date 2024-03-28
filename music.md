@@ -11,3 +11,8 @@ order: 1
 
 {% assign set = site.works | where: "category", "improv" | sort: "date" | reverse %}
 {% include grid.html %}
+
+## Collaborations/Sound Design
+
+{% assign set = site.works | where: "category", "sound-design" | sort: "date" | reverse %}
+{% include grid.html %}
