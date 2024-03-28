@@ -2,7 +2,7 @@
 title: fake or far away
 subtitle: Interactive Online Installation
 date: 2022-05-15
-category: interactive
+category: sound-design
 thumb: /images/thumbs/fake-or-far-away.jpg
 ---
 
