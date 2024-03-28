@@ -2,7 +2,7 @@
 title: Music
 order: 1
 ---
-## Compositions/Performance
+## Compositions
 
 {% assign set = site.works | where: "category", "piece" | sort: "date" | reverse %}
 {% include grid.html %}

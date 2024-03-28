@@ -3,15 +3,17 @@ title: Performances/Events
 order: 5
 ---
 
-March 2024, CEMI 60th Anniversary, SEAMUS Concert: Sonic Horizon - Immersive Realities Explored, University of North Texas, Denton, TX, Funeral For A Whale, multi-channel composition
+March 2024, CEMI 60th Anniversary, SEAMUS Concert: Sonic Horizons - Immersive Realities Explored, University of North Texas, Denton, TX, "Funeral For A Whale", multi-channel composition
 
-March 2024, CAMPGround24, Tampa, FL, Paisajes Oniricos / Dreamscapes, performed by Kevin Von Kampen and Katherine Weintraub
+March 2024, CAMPGround24, Tampa, FL, "Paisajes Oniricos / Dreamscapes", performed by Kevin Von Kampen and Katherine Weintraub
 
-March 2024, Performing Media Festival, Indiana University, South Bend, IN, Paisajes Oniricos / Dreamscapes performed by the AudioVisual Collective
+March 2024, Performing Media Festival, Indiana University, South Bend, IN, "Paisajes Oniricos / Dreamscapes" performed by the AudioVisual Collective
 
-January 2024, The San Francisco Tape Music Festival, San Francisco, CA, Funeral For A Whale, multi-channel composition
+February 2024, “Developing a Musical Practice with Virtual Reality”, University of Michigan, Department of Performing Arts Technology, Ann Arbor, MI, guest lecture
 
-December 2023, Coastal Futures Festival, Eastern Shore Community College, Melfa, VA, Funeral For A Whale, soundscape composition
+January 2024, The San Francisco Tape Music Festival, San Francisco, CA, "Funeral For A Whale", multi-channel composition
+
+December 2023, Coastal Futures Festival, Eastern Shore Community College, Melfa, VA, "Funeral For A Whale", soundscape composition
 
 September 2023, International Computer Music Association Music Showcase 2023 Latin America (Online), Push & Pull, Virtual Reality Musical Instrument
 
@@ -25,6 +27,8 @@ October 2022, Technosonics Festival, University of Virginia, Charlottesville, VA
 
 September 2022, South Central Graduate Music Consortium, Durham, NC, Bridging the gap: music improvisation in URL and IRL spaces, paper presentation
 
+May 2022, Digitalis Electronic Music Festival, University of Virginia, Charlottesville, VA, Miskets & Canicas, Networked Virtual Reality performance
+
 October 2021, 18th Brazilian Symposium on Computer Music, Recife, PE, Brazil, Miskets & Canicas, networked virtual reality performance
 
 August 2021, 15th International Symposium on Computer Music Multidisciplinary Research, Tokyo Japan, Miskets & Canicas, networked virtual reality performance
@@ -34,3 +38,5 @@ July 2021, A-MAZE Festival, Patchathon #2, Berlin, Germany, Digital Garden, virt
 September 2020, Audio Mostly Conference (Online), Graz, Austria, Capturing Kinetic Wave Demonstrations for Sound Control, paper presentation
 
 July 2020, New Interfaces for Musical Expression (Online), Birmingham, UK, Exploring the Affordances of VR for Musical Interaction Design with VIMEs, paper presentation
+
+June 2020, “Explorando el diseño de interacciones musicales en realidad virtual”, Departamento de Sonido, Universidad de Chile, Santiago, Chile, guest lecture
