@@ -165,6 +165,10 @@ p.pieces{
   width: 100%;
 }
 
+.works-grid-1 .work-grid-thumb {
+  min-height: 23em;
+}
+
 .text{
     max-width: 1150px;
     text-align: justify;
