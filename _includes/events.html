@@ -1,0 +1,38 @@
+<!-- {% assign cols = include.columns %}
+{% assign type = include.thumbs | default: "image" %}
+{% assign cat = include.category | default: "summary" %} -->
+
+<div class="events">
+  {% for event in set %}
+  <div class="single-event">
+    <div class="left-half">
+        {{ event.date }}
+    </div>
+    <div class="right-half">
+      <h3>
+        {{ event.event }}
+      </h3>
+      <div class="event-inner">
+        <div class="work-info">
+          <span class="work side-head">work:</span>
+          <span class="event-work-title">
+            {{ event.work }}
+          </span>
+          <span>
+            {{ event.details }}
+          </span>
+        </div>
+        <div class="meta">
+          <span class="loc side-head">location:</span>
+          <span>
+            {{ event.venue }}
+          </span>
+          <span>
+            {{ event.location }}
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
