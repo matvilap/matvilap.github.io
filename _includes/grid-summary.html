@@ -1,6 +1,7 @@
 <a href="{{ work.url | relative_url }}">
   {% if work.thumb != null %}
-    <img src="{{ work.thumb | relative_url }}" />
+    <!-- <img src="{{ work.thumb | relative_url }}" /> -->
+    <div class="work-grid-thumb" style="--work-image: url('{{ work.thumb | relative_url }}')"></div>
   {% else %}
     <img src="{{ '/images/thumbs/slicer-small.png' | relative_url }}" />
   {% endif %}
