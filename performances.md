@@ -30,19 +30,19 @@ events:
     details: performed by the AudioVisual Collective
 
   - event: “Developing a Musical Practice with Virtual Reality”
-    date: Feb 2024
+    date: February 2024
     venue: University of Michigan, Department of Performing Arts Technology
     location: Ann Arbor, MI
     details: guest lecture
 
   - event: The San Francisco Tape Music Festival
-    date: Jan 2024
+    date: January 2024
     location: San Francisco, CA
     work: "Funeral For A Whale"
     details: multi-channel composition
 
   - event: Coastal Futures Festival
-    date: Dec 2023
+    date: December 2023
     venue: Eastern Shore Community College
     location: Melfa, VA
     work: "Funeral For A Whale"
@@ -50,7 +50,7 @@ events:
   
   - event: International Computer Music Association Music Showcase 2023 Latin America
     location: (online)
-    date: Sept 2023
+    date: September 2023
     work: "Push & Pull"
     details: Virtual Reality Musical Instrument
 
@@ -68,19 +68,19 @@ events:
     
   - event: Stuttgarter Filmwinter Festival For Expanded Media
     location: Stuttgart, Germany
-    date: Dec 2022
+    date: December 2022
     work: "fake or far away"
     details: interactive virtual installation
 
   - event: Technosonics Festival
-    date: Oct 2022
+    date: October 2022
     venue: University of Virginia
     location: Charlottesville, VA
     work: "Flujos Inmóviles"
     details: multi-channel acousmatic composition
 
   - event: South Central Graduate Music Consortium
-    date: Sept 2022
+    date: September 2022
     location: Durham, NC
     work: "Bridging the gap: music improvisation in URL and IRL spaces"
     details: paper presentation
@@ -89,17 +89,17 @@ events:
     date: May 2022
     venue: University of Virginia
     location: Charlottesville, VA
-    work: "Miskets & Canicas"
+    work: "Unforeseen Collisions"
     details: Networked Virtual Reality performance
 
   - event: 18th Brazilian Symposium on Computer Music
-    date: Oct 2021
+    date: October 2021
     location: Recife, PE, Brazil
     work: "Miskets & Canicas"
     details: networked virtual reality performance
 
   - event: 15th International Symposium on Computer Music Multidisciplinary Research
-    date: Aug 2021
+    date: August 2021
     location: Tokyo Japan
     work: "Miskets & Canicas"
     details: networked virtual reality performance
@@ -111,7 +111,7 @@ events:
     details: virtual reality performance
 
   - event: Audio Mostly Conference
-    date: Sept 2020
+    date: September 2020
     location: Graz, Austria (online)
     work: "Capturing Kinetic Wave Demonstrations for Sound Control"
     details: paper presentation
