@@ -2,7 +2,7 @@
 title: Performances/Events
 order: 5
 events:
-  - event: 'CEMI 60th Anniversary, SEAMUS Concert: Sonic Horizons - Immersive Realities Explored'
+  - event: 'New Thread Quartet - Visiting Artist Series'
     date: April 2024
     venue: Williams College
     location: Williamstown, MA
