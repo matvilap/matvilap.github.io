@@ -47,12 +47,25 @@ events:
     location: Melfa, VA
     work: "Funeral For A Whale"
     details: multi-channel composition
-  
+
+  - event: Just the TRS! Electronic Sextet
+    date: October 2023
+    location: Denton, TX
+    venue: University of North Texas
+    work: "Paisajes Oniricos / Dreamscapes"
+    details: performed by Michael Casiano, Pierre H. Jax, Noah Salem, Andrew Rubio, Nolen Liu, and Joshua "JD" Fuller
+
   - event: International Computer Music Association Music Showcase 2023 Latin America
     location: (online)
     date: September 2023
     work: "Push & Pull"
     details: Virtual Reality Musical Instrument
+
+  - event: CuteLab NYC
+    date: May 2023
+    location: Brooklyn, NY
+    work: "Paisajes Oniricos / Dreamscapes"
+    details: performed by Popebama
 
   - event: Manhattan International Composer’s Conference
     date: May 2023
