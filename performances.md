@@ -20,7 +20,7 @@ events:
     date: March 2024
     location: Tempus Projects, Tampa, FL
     work: "Paisajes Oniricos / Dreamscapes"
-    details: performed by Kevin Von Kampen (percussion) and Katherine Weintraub (saxophone)
+    details: performed by Kevin Von Kampen and Katherine Weintraub
 
   - event: Performing Media Festival
     date: March 2024
