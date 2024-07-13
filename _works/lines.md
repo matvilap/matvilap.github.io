@@ -6,7 +6,7 @@ thumb: /images/thumbs/Lines.jpg
 date: 2020-01-01
 ---
 
-Lines is an improvisation group that explores the combination of acoustic instruments with live processing and looping techniques in free form. First initiated in Ann Arbor, MI, in 2018 by Matias Vilaplana (electronics), Geoff Brown (guitar) and Joey Fortino (drums) while they were students. Further collaborations included Spencer Haney (double bass), Ezra Ganz (bass clarinet), Ryan Cox (saxophone) and Bradley Gurwin (piano, keyboard) and it became a rotating line-up allowing for different combinations that explore multiple sound worlds.
+Lines is an improvisation group that explores the combination of acoustic instruments with live processing and looping techniques in free form. First initiated in Ann Arbor, MI, in 2018 by Matias Vilaplana (electronics), Morgan Brown (guitar) and Joey Fortino (drums) while they were students. Further collaborations included Spencer Haney (double bass), Ezra Ganz (bass clarinet), Ryan Cox (saxophone) and Bradley Gurwin (piano, keyboard) and it became a rotating line-up allowing for different combinations that explore multiple sound worlds.
 
 ## Albums (2018 - 2020)
 
