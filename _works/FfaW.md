@@ -2,7 +2,7 @@
 title: Funeral For A Whale
 subtitle: Multi-channel composition
 category: piece
-thumb: /images/thumbs/Landmine.png
+thumb: /images/funeral-whale.png
 date: 2024-03-02
 ---
 
