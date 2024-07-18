@@ -2,6 +2,20 @@
 title: Performances/Events
 order: 5
 events:
+  - event: 'Electric Sax Vol. 2'
+    date: May 2024
+    venue: The Cell
+    location: New York, NY
+    work: "Senderos"
+    details: video graphic score, performed by New Thread Quartet
+
+  - event: 'Excerpts from [PMF~ 2024]'
+    date: April 2024
+    venue: Western Michigan University
+    location: Kalamazoo, MI
+    work: "Paisajes Oniricos / Dreamscapes"
+    details: Video installation
+
   - event: 'New Thread Quartet - Visiting Artist Series'
     date: April 2024
     venue: Williams College
