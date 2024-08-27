@@ -4,7 +4,7 @@ order: 5
 events:
   - event: 'Cube Fest 2024'
     date: August 2024
-    venue: The Cube at the Moss Arts Center, Virginia Tech
+    venue: The Cube, Virginia Tech
     location: Blacksburg, VA
     work: "Funeral For A Whale"
     details: multi-channel composition
