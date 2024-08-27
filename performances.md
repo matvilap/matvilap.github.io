@@ -2,6 +2,20 @@
 title: Performances/Events
 order: 5
 events:
+  - event: 'Cube Fest 2024'
+    date: August 2024
+    venue: The Cube at the Moss Arts Center, Virginia Tech
+    location: Blacksburg, VA
+    work: "Funeral For A Whale"
+    details: multi-channel composition
+
+  - event: 'Audio for Virtual and Augmented Reality Conference 2024'
+    date: August 2024
+    venue: DigiPen Institute of Technology
+    location: Redmond, WA
+    work: "Unforeseen Collisions: A Networked VR System for Musical Collaboration"
+    details: poster presentation and demo
+
   - event: 'Electric Sax Vol. 2'
     date: May 2024
     venue: The Cell
