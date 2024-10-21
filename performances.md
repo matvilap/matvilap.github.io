@@ -16,7 +16,7 @@ events:
     work: "Funeral For A Whale"
     details: Multi-channel composition
     
-  - event: 'Glitch'N'Games by Glitch Artists Collective'
+  - event: 'Glitch N Games by Glitch Artists Collective'
     date: October 2024
     venue: Wick Monet Gallery
     location: Pittsburgh, PA
