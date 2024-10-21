@@ -2,21 +2,21 @@
 title: Performances/Events
 order: 5
 events:
-  - event: Sound/Image Festival
+  - event: 'Sound/Image Festival'
     date: November 2024
     venue: Bathway Theatre
     location: London, England
     work: "Funeral For A Whale"
     details: Multi-channel composition
 
-  - event: Spaceout, An Ambisonics Concert!
+  - event: 'Spaceout, An Ambisonics Concert!'
     date: October 2024
     venue: Chip Davis Technology Studio, University of Michigan
     location: Ann Arbor, MI
     work: "Funeral For A Whale"
     details: Multi-channel composition
     
-  - event: 'Glitch'N'Games' by Glitch Artists Collective
+  - event: 'Glitch'N'Games by Glitch Artists Collective'
     date: October 2024
     venue: Wick Monet Gallery
     location: Pittsburgh, PA
