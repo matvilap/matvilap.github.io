@@ -2,26 +2,47 @@
 title: Performances/Events
 order: 5
 events:
+  - event: Sound/Image Festival
+    date: November 2024
+    venue: Bathway Theatre
+    location: London, England
+    work: "Funeral For A Whale"
+    details: Multi-channel composition
+
+  - event: Spaceout, An Ambisonics Concert!
+    date: October 2024
+    venue: Chip Davis Technology Studio, University of Michigan
+    location: Ann Arbor, MI
+    work: "Funeral For A Whale"
+    details: Multi-channel composition
+    
+  - event: 'Glitch'N'Games' by Glitch Artists Collective
+    date: October 2024
+    venue: Wick Monet Gallery
+    location: Pittsburgh, PA
+    work: "Paisajes Oniricos / Dreamscapes"
+    details: Video installation
+
   - event: 'Cube Fest 2024'
     date: August 2024
     venue: The Cube, Virginia Tech
     location: Blacksburg, VA
     work: "Funeral For A Whale"
-    details: multi-channel composition
+    details: Multi-channel composition
 
   - event: 'Audio for Virtual and Augmented Reality Conference 2024'
     date: August 2024
     venue: DigiPen Institute of Technology
     location: Redmond, WA
     work: "Unforeseen Collisions: A Networked VR System for Musical Collaboration"
-    details: poster presentation and demo
+    details: Poster presentation and demo
 
   - event: 'Electric Sax Vol. 2'
     date: May 2024
     venue: The Cell
     location: New York, NY
     work: "Senderos"
-    details: video graphic score, performed by New Thread Quartet
+    details: Video graphic score, performed by New Thread Quartet
 
   - event: 'Excerpts from [PMF~ 2024]'
     date: April 2024
@@ -35,39 +56,39 @@ events:
     venue: Williams College
     location: Williamstown, MA
     work: "Senderos"
-    details: video graphic score, performed by New Thread Quartet
+    details: Video graphic score, performed by New Thread Quartet
 
   - event: 'CEMI 60th Anniversary, SEAMUS Concert: Sonic Horizons - Immersive Realities Explored'
     date: March 2024
     venue: University of North Texas
     location: Denton, TX
     work: "Funeral For A Whale"
-    details: multi-channel composition
+    details: Multi-channel composition
 
   - event: 'CAMPGround24'
     date: March 2024
     location: Tempus Projects, Tampa, FL
     work: "Paisajes Oniricos / Dreamscapes"
-    details: performed by Kevin Von Kampen and Katherine Weintraub
+    details: Virtual graphic score, performed by Kevin Von Kampen and Katherine Weintraub
 
   - event: Performing Media Festival
     date: March 2024
     venue: Indiana University
     location: South Bend, IN
     work: "Paisajes Oniricos / Dreamscapes"
-    details: performed by the AudioVisual Collective
+    details: Performed by the AudioVisual Collective
 
   - event: “Developing a Musical Practice with Virtual Reality”
     date: February 2024
     venue: University of Michigan, Department of Performing Arts Technology
     location: Ann Arbor, MI
-    details: guest lecture
+    details: Guest lecture
 
   - event: The San Francisco Tape Music Festival
     date: January 2024
     location: San Francisco, CA
     work: "Funeral For A Whale"
-    details: multi-channel composition
+    details: Multi-channel composition
 
   - event: Coastal Futures Festival
     date: December 2023
