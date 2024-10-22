@@ -5,12 +5,11 @@ order: 5
 
 ![Image of Matias Vilaplana](images/vilaplana-website.jpg){: .about-image }
 
-## Bio
-I am a music technologist, composer, improviser, and educator from Chile. My research interests lie at the intersection of immersive media and musical practice, working on designing interactive music environments with virtual reality systems and the creation of 3D virtual environments as scores for musical performance. My work has been presented in festivals and conferences such as SEAMUS, NIME, the SF Tape Music Festival, Cube Fest, CAMPGround and the Performing Media Festival. I graduated with a BFA from the Music Technology program at Universidad de Chile, and a Master’s in Media Arts from the University of Michigan. At Michigan, I focused on creating a movement-based interactive music performance using motion capture technology. In Santiago, Chile, I worked as a recording engineer and sound designer, where I also collaborated on various multi-disciplinary projects involving dance, theater, and visual arts. I am currently a Ph.D. candidate in the Composition and Computer Technologies program at the University of Virginia.
+I am a music technologist, composer, improviser, and educator from Chile.  My research interests lie at the intersection of immersive media and musical practice. In my work, I design interactive systems for musical performance with virtual reality, compose multi-channel tape pieces for immersive sound systems, and improvise electronic music with custom digital/analog configurations. My work has been presented in festivals and conferences such as SEAMUS, NIME, the SF Tape Music Festival, Cube Fest, CAMPGround and the Performing Media Festival. In my career, I have also worked as a recording engineer and sound designer, having collaborated on various multi-disciplinary projects involving dance, theater, and visual arts.
 
 ## Education
-BFA Music Technology - Universidad de Chile
+Universidad de Chile - BFA Music Technology
 
-MA Media Arts - University of Michigan
+University of Michigan - MA Media Arts
 
-Ph.D. (ABD) - University of Virginia
+University of Virginia - Ph.D. Composition and Computer Technologies (ABD)  
