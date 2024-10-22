@@ -1,6 +1,6 @@
 ---
 title: Razón
-subtitle: Musique Concrète
+subtitle: Tape piece
 category: piece
 thumb: /images/thumbs/Razon.jpg
 date: 2013-01-01
