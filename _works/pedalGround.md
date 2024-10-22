@@ -1,6 +1,6 @@
 ---
 title: pedalGround
-category: vr
+category: interactive
 subtitle: Virtual Environment & Electric Guitar
 thumb: /images/thumbs/pedalGround.png
 date: 2022-04-15

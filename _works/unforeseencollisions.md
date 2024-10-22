@@ -1,6 +1,6 @@
 ---
 title: Unforeseen Collisions
-category: vr
+category: interactive
 subtitle: VR Networked Performance
 thumb: /images/thumbs/UnforeseenCollisions.png
 date: 2022-05-30

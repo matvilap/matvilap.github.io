@@ -6,12 +6,12 @@ home_block:
   - text: Music
     url: /music
     image: /images/thumbs/lluviaen2partes.jpeg
-  - text: Interactive Media
+  - text: Interactive Media/VR
     url: /interactive
     image: /images/thumbs/SyntheticBodies.png
-  - text: VR
-    url: /vr
-    image: /images/thumbs/UX-1.png
+  - text: Visual Arts
+    url: /visuals
+    image: /images/thumbs/que-sera-de-la-musica.jpg
 ---
 
 {% assign set = page.home_block %}

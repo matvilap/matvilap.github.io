@@ -1,7 +1,7 @@
 ---
 title: Marbells VR
 subtitle: Musical Causality System
-category: vr
+category: interactive
 thumb: /images/thumbs/Marbells.png
 date: 2019-01-01
 ---
