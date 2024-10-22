@@ -5,8 +5,8 @@ order: 0
 home_block:
   - text: Music
     url: /music
-    image: /images/thumbs/lluviaen2partes.jpeg
-  - text: Interactive Media/VR
+    image: /images/funeral-whale.png
+  - text: VR/Interactive Media
     url: /interactive
     image: /images/thumbs/SyntheticBodies.png
   - text: Visual Arts

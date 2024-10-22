@@ -1,5 +1,5 @@
 ---
-title: Interactive Media / VR
+title: VR / Interactive Media
 order: 2
 ---
 
