@@ -2,13 +2,7 @@
 title: Performances/Events
 order: 4
 events:
-  - event: 'Sound / Image Festival'
-    date: November 2024
-    venue: Bathway Theatre
-    location: London, England
-    work: "Funeral For A Whale"
-    details: Multi-channel composition
-
+  
   - event: 'Spaceout, An Ambisonics Concert!'
     date: October 2024
     venue: Chip Davis Technology Studio, University of Michigan
