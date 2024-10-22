@@ -1,6 +1,6 @@
 ---
 title: Ball Pit VR
-category: vr
+category: interactive
 subtitle: Stochastic Musical System
 thumb: /images/thumbs/BallPit.png
 date: 2019-01-01

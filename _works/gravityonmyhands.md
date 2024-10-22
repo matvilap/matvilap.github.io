@@ -1,6 +1,6 @@
 ---
 title: push and pull
-category: vr
+category: interactive
 subtitle: Music Interaction
 thumb: /images/thumbs/gravityonmyhands.png
 date: 2022-01-15
