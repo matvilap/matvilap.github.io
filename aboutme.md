@@ -1,6 +1,6 @@
 ---
 title: About Me
-order: 6
+order: 5
 ---
 
 ![Image of Matias Vilaplana](images/vilaplana-website.jpg){: .about-image }

@@ -1,6 +1,6 @@
 ---
 title: Visual Arts
-order: 4
+order: 3
 
 sin_titulo:
   - title: "Sin Titulo #1"

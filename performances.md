@@ -1,6 +1,6 @@
 ---
 title: Performances/Events
-order: 5
+order: 4
 events:
   - event: 'Sound / Image Festival'
     date: November 2024
