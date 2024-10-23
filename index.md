@@ -11,7 +11,7 @@ home_block:
     image: /images/thumbs/SyntheticBodies.png
   - text: Visual Arts
     url: /visuals
-    image: /images/thumbs/Lines.jpg
+    image: /images/thumbs/que-sera-de-la-musica.jpg
 ---
 
 {% assign set = page.home_block %}
