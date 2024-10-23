@@ -2,7 +2,7 @@
 title: No Recuerdo Como Era Antes
 subtitle: For Bass Clarinet, Percussion & Electronics
 category: piece
-thumb: /images/no-rec.jpg
+thumb: /images/thumbs/no-rec.jpg
 date: 2021-04-01
 ---
 
