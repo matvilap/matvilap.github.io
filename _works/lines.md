@@ -1,6 +1,6 @@
 ---
 title: Lines
-subtitle: Free Improvisation Collective
+subtitle: Free Improvisation Group
 category: improv
 thumb: /images/thumbs/Lines.jpg
 date: 2020-01-01
@@ -19,10 +19,10 @@ Lines is an improvisation group that explores the combination of acoustic instru
 ## Live shows
 
 <div class="live">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-wDfye9Uwxs?start=1840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="49%" height="315" src="https://www.youtube.com/embed/-wDfye9Uwxs?start=1840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="live">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/61q6lxp3NUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>@ Escher House, Ann Arbor, 2020</p>
+<iframe width="49%" height="315" src="https://www.youtube.com/embed/61q6lxp3NUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>

@@ -8,4 +8,4 @@ date: 2020-06-31
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1785453669&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-"lluvia en la capital" is a reflection on the dual quality of natural weather events, on both its destructive and healing power. Inspired in the poem "la lluvia lenta" by Chilean poet Gabriela Mistral.
+"lluvia en la capital" was inspired by "la lluvia lenta" a poem by Gabriela Mistral. The piece reflects on the dual quality of rain, both its destructive and healing qualities. This duality is constantly experienced in the city of Santiago. A city that is in a region of intense draught and expanding desertification, that needs rain, but that suffers from deficient infrastructure, flooding the city with every rain.
