@@ -1,6 +1,6 @@
 ---
 title: lluvia en la capital
-subtitle: Tape Piece
+subtitle: Tape piece
 category: piece
 thumb: /images/thumbs/lluviaen2partes.jpeg
 date: 2020-06-31

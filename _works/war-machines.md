@@ -1,6 +1,6 @@
 ---
 title: War Machines Dance to Piano Music
-subtitle: Piano, live processing & live video montage
+subtitle: Piano, Live Processing & Live Video Montage
 category: piece
 thumb: /images/thumbs/wmdtpm.png
 date: 2017-01-01
