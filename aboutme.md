@@ -11,8 +11,11 @@ I am a music technologist, composer, improviser, and educator from Chile.  My re
 
 ## Education
 Universidad de Chile - BFA Music Technology
+
 University of Michigan - MA Media Arts
+
 University of Virginia - MA Music
+
 University of Virginia - Ph.D. Composition and Computer Technologies (ABD) 
 
 {% include grid.html %}
