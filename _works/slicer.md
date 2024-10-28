@@ -1,6 +1,6 @@
 ---
 title: (if someone were to touch me) I would dissolve into molecules
-subtitle: Audiovisual Algorithmic Composition
+subtitle: Audiovisual Algorithmic composition
 category: piece
 thumb: /images/thumbs/slicerstudy1.jpeg
 date: 2021-01-01
