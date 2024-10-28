@@ -10,7 +10,7 @@ I am a music technologist, composer, improviser, and educator from Chile.  My re
 
 
 ## Education
-Universidad de Chile - BA Music Technology
+Universidad de Chile - BFA Music Technology
 
 University of Michigan - MA Media Arts
 
