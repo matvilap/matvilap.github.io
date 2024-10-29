@@ -14,4 +14,4 @@ The piece reflects on the traditional representation of graphic scores as drawin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OG3mhEU0n2w?si=R1T8aq_hh9HmfaSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is a solo rendering of the piece that uses a custom digital msuical instrument built in Max/MSP, glitched visuals made in Hydra, and is performed live with an APC 40 MIDI controller.
+This is a solo rendering of the piece that uses a custom digital musical instrument built in Max/MSP, glitched visuals made in Hydra, and is performed live with an APC 40 MIDI controller.
