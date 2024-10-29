@@ -10,7 +10,7 @@ home_block:
     url: /interactive
     image: /images/thumbs/SyntheticBodies.png
   - text: Visual Arts
-    url: /visuals
+    url: /visual
     image: /images/thumbs/que-sera-de-la-musica.jpg
 ---
 
