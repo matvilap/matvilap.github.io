@@ -8,9 +8,9 @@ date: 2023-05-25
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PWX_CnPkJYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Paisajes Oníricos / Dreamscapes for open instrumentation and virtual conductor. Performed by Popebama, Erin Rogers (saxophone) and Dennis Sullivan (percussion, electronics).
+Paisajes Oníricos / Dreamscapes for open instrumentation and virtual conductor. Performed by Popebama, Erin Rogers (saxophone) and Dennis Sullivan (percussion, electronics), and myself as the virtual conductor.
 
-The piece reflects on the traditional representation of graphic scores as drawings on a two-dimensional plane. The piece expands on this notion by allocating the graphical elements in a 3D virtual environment. These elements acquire volume and mass, in addition to the incorporation of a spatio-temporal dimension that is controlled by a virtual conductor.
+The piece reflects on the traditional representation of graphic scores as drawings on a two-dimensional plane. The piece expands on this notion by allocating the graphical elements in a 3D virtual environment. These elements acquire volume and mass, in addition to the incorporation of a spatio-temporal dimension that is controlled by a virtual conductor using a mouse and keyboard.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OG3mhEU0n2w?si=R1T8aq_hh9HmfaSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
