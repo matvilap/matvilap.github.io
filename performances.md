@@ -1,5 +1,5 @@
 ---
-title: Performances/Events
+title: Events
 order: 4
 events:
   
