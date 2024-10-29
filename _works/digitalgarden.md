@@ -1,7 +1,7 @@
 ---
 title: Digital Garden
 category: interactive
-subtitle: Patchathon XR
+subtitle: Patchathon '#2'
 thumb: /images/thumbs/digitalgarden.png
 date: 2021-07-27
 ---
