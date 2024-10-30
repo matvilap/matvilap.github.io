@@ -5,6 +5,9 @@ category: piece
 thumb: /images/thumbs/Senderos.png
 date: 2024-05-01
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4t78Gzqd73A?si=BbEQqfFY76o3N_zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Performed by New Thread Quartet at Williams College, MA, in April 2024, and The Cell, NY, in May 2024.
 
 *Senderos* is a video score where the performers are presented with four different digital landscapes, each of them representing a musical movement in the piece. A separate score outlines the musical parameters associated with particular features of each landscape. As the video progresses, the performers interpret the landscape features through their playing and articulate musical parameters such as rhythm, pitch, character, and extended techniques, in a collective improvisation.
