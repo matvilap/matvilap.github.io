@@ -1,7 +1,7 @@
 ---
 title: Paisajes Oníricos / Dreamscapes
 category: piece
-subtitle: Open Instrumentation, Electronics & Virtual Conductor
+subtitle: Open score for open instrumentation, electronics & virtual conductor
 thumb: /images/thumbs/dreamscapes5.png
 date: 2023-05-25
 ---
