@@ -2,7 +2,62 @@
 title: Events
 order: 4
 events:
-  
+  - event: NYCEMF 2025
+    date: June 2025
+    venue: Sheen Center for the Arts
+    location: New York, NY
+    work: "Funeral For A Whale"
+    details: Multi-channel composition
+
+  - event: Currents 2025 Art & Technology Festival
+    date: June 2025
+    venue: El Museo Cultural
+    location: Santa Fe, NM
+    work: "Unforeseen Collision"
+    details: Multi-user Virtual Reality Installation
+
+  - event: SEAMUS 2025
+    date: March 2025
+    venue: Purdue University
+    location: West Lafayette, IN
+    work: "Point Cloud"
+    details: Interactive sound installation
+
+  - event: IEEE VR, Sonic Interactions in Virtual Environments Workshop
+    date: March 2025
+    venue: Palais du Grand Large
+    location: Saint-Malo, France
+    work: "Developing a 3D interface for sound corpus manipulation in virtual environments"
+    details: Paper presentation
+
+  - event: Espaces Multiples 11, La Semaine du Son
+    date: January 2025
+    venue: Maison des Habitants Centre-Ville
+    location: Grenoble, France
+    work: "Funeral For A Whale"
+    details: Multi-channel composition
+
+  - event: Foro de las Artes, Universidad de Chile
+    date: November 2024
+    venue: Casa Palacio
+    location: Santiago, Chile
+    work: "Point Cloud & Paisajes Oníricos / Dreamscapes"
+    details: Video installation
+
+  - event: Technosonics Festival
+    date: October 2024
+    venue: Visible Records
+    location: Charlottesville, VA
+    work: "Point Cloud"
+    details: Virtual musical instrument performance
+
+  - event: Technosonics Festival
+    date: October 2024
+    venue: Ruffin Hall, University of Virginia
+    location: Charlottesville, VA
+    work: "Unforeseen Collisions"
+    details: Multi-user Virtual Reality installation
+
   - event: 'Spaceout, An Ambisonics Concert!'
     date: October 2024
     venue: Chip Davis Technology Studio, University of Michigan
