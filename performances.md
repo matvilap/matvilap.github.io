@@ -13,7 +13,7 @@ events:
     date: June 2025
     venue: El Museo Cultural
     location: Santa Fe, NM
-    work: "Unforeseen Collision"
+    work: "Unforeseen Collisions"
     details: Multi-user Virtual Reality Installation
 
   - event: SEAMUS 2025
