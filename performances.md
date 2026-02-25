@@ -2,6 +2,19 @@
 title: Events
 order: 4
 events:
+  - event: Techne, Forum on Art & Technology
+    date: April 2026
+    venue: Jefferson Scholars Foundation
+    location: Charlottesville, VA
+    work: Organizer
+
+  - event: Technosonics Festival
+    date: November 2025
+    venue: Old Cabel Hall
+    location: Charlottesville, VA
+    work: "Six Short Stories"
+    details: Solo percussion and live electronics, performed by I-Jen Fang
+
   - event: NYCEMF 2025
     date: June 2025
     venue: Sheen Center for the Arts
